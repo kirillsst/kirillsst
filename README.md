@@ -79,13 +79,3 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kirillsst&theme=dark&hide_border=false"/>
-  <br/>
-</p>
-
----
