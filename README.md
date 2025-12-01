@@ -6,8 +6,8 @@
 <h3 align="center">AI Student • Web Developer • ML Enthusiast</h3>
 
 <p align="center">
-  Passionate about building <b>AI applications, chatbots, callbots, prediction models</b> and modern web projects.<br>
-  Currently studying <b>Artificial Intelligence</b> and always open to collaboration on exciting ideas!
+  I love creating things that make life easier — from <b>AI tools, chatbots, callbots, and prediction systems</b> to modern web applications.<br>
+  Currently studying <b>Artificial Intelligence</b> and always happy to connect and collaborate on interesting projects!
 </p>
 
 ---
